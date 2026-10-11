@@ -1,6 +1,6 @@
-# Taxi-Data-analysis-Python
+# 🚕 Taxi Data Analysis Using Python
 As a data analyst have to clean, analyze, and visualize taxi data. You will handle missing values, explore trends, and create visualizations to gain insights into fare, distance, and customer behavior using Pandas, Matplotlib, and Seaborn. 
-🚕 Taxi Data Analysis Using Python
+
 📊 Data Cleaning | Exploratory Data Analysis | Data Visualization
 
 📌 Project Overview
